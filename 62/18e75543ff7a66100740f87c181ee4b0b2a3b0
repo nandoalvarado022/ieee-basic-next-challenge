@@ -1,0 +1,25 @@
+app/components/Challenges.js
+  h_15f0de19236f1a 2
+  s_4e39c533b6b209::t_4dd4e4d23b9973 3-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "6218e75543ff7a66100740f87c181ee4b0b2a3b0",
+  "prompts": {},
+  "humans": {
+    "h_15f0de19236f1a": {
+      "author": "Nando (Hernando Alvarado) <nandoalvarado022@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4e39c533b6b209": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "40132a1a-1dab-4cf8-8fe6-0ce07fa7dd89",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "Nando (Hernando Alvarado) <nandoalvarado022@gmail.com>"
+    }
+  }
+}
