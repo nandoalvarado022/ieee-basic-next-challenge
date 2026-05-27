@@ -1,7 +1,8 @@
 const challenges = [
-  "Configurar una página en la ruta /",
-  "Crear un componente reutilizable",
-  "Exponer un endpoint mock en /api/challenges",
+  "Crear un icono por cada desafio",
+  "Configurar una página en la ruta /desafios",
+  "Crear un componente reutilizable con sus estilos",
+  "Exponer un endpoint mock en /api/challenges para obtener los desafios",
 ];
 
 export default function Challenges() {
