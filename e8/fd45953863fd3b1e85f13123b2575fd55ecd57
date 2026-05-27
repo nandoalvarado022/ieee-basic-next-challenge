@@ -1,0 +1,14 @@
+README.md
+  h_15f0de19236f1a 2-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "e8fd45953863fd3b1e85f13123b2575fd55ecd57",
+  "prompts": {},
+  "humans": {
+    "h_15f0de19236f1a": {
+      "author": "Nando (Hernando Alvarado) <nandoalvarado022@gmail.com>"
+    }
+  }
+}
